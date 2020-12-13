@@ -86,7 +86,7 @@ You can [install TeX from upstream](http://tex.stackexchange.com/q/1092) (recomm
 At a command prompt, run
 
 ```bash
-$ xelatex {your-cv}.tex
+$ xelatex resume.tex
 ```
 
 This should result in the creation of ``{your-cv}.pdf``
