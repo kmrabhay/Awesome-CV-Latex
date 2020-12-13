@@ -89,7 +89,7 @@ At a command prompt, run
 $ xelatex resume.tex
 ```
 
-This should result in the creation of ``{your-cv}.pdf``
+This should result in the creation of ``resume.pdf``
 
 
 ## Credit
